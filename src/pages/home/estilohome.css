@@ -1,0 +1,23 @@
+h1, h3{
+    text-align: center;
+    color: orangered
+}
+img{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.calc{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 25px;
+    text-align: center;
+
+}
