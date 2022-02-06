@@ -10,12 +10,13 @@ export default function IMC(){
     
     function CalcImC(event){
         event.preventDefault()
-        const res = (peso/(altura*altura))
+        const alt = altura/100
+        const res = (peso/(alt*alt))
         
         return(
              setResultado(res.toFixed(2))
-        
         )
+        
     }
 
     return(
@@ -26,7 +27,7 @@ export default function IMC(){
             <label name='peso'>Insira seu peso</label>
             <input value={peso} onChange={(e)=>{setPeso(e.target.value)}}
              name='peso'type='number' />
-            <label name='altura'>Insira sua Altura</label>
+            <label name='altura'>Insira sua Altura (cm)</label>
             <input value={altura} onChange={(e)=>{setAltura(e.target.value)}}
             name='altura'type='number'/>
             <button type='submit'>Calcular</button>
