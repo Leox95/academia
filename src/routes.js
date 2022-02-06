@@ -13,7 +13,7 @@ const Rotas = ()=> {
             <Header/>
             <Routes>
                 <Route exact path="/" element={<Home/>}></Route>
-                <Route exact path="/treinos" element={<Treino/>}></Route>
+                <Route exact path="/treino" element={<Treino/>}></Route>
                 <Route exact path="/calcImc" element={<IMC/>}></Route>
                 <Route exact path="/calcProt" element={<Prot/>}></Route>
                 <Route path="*" element={<NaoEncontrada/>}></Route>

@@ -20,7 +20,7 @@ export default function IMC(){
 
     return(
         <div className='container'>
-        <h1>Calculadora de IMC</h1>
+        <h1 className="calc">Calculadora de IMC</h1>
         <br/>
         <form onSubmit={CalcImC}>
             <label name='peso'>Insira seu peso</label>
@@ -31,7 +31,7 @@ export default function IMC(){
             name='altura'type='number'/>
             <button type='submit'>Calcular</button>
         </form>
-        <h3>{`Resultado: ${resultado}`}</h3>
+        <h3 className='calc'>{`Resultado: ${resultado}`}</h3>
         </div>
     )
 }

@@ -1,0 +1,40 @@
+.containerTreino{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: orangered;
+    width: 70%;
+    border-radius: 10px;
+    margin: 40px ;
+    justify-content: center;
+    margin:40px auto;
+    
+}
+.containerTempo{
+    margin-top: 50px;
+    padding: 1em;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px ;
+    margin-bottom: 40px;
+}
+.containerMembros{
+    display: flex;
+    justify-content: space-between;
+}
+.tempo{
+    font-size: 45px;
+    color: orangered;
+    background-color: white;
+    text-align: center;
+    
+    
+}
+.musculo{
+    color: white;
+    font-size: 20px;
+    margin-right: 2em;
+}
+.grupoMuscular{
+    color: white;
+}

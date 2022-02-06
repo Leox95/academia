@@ -16,7 +16,7 @@ export default function Prot(){
 
     return(
         <div className="container">
-            <h1>Calculo de proteína diária para hipertrofia</h1>
+            <h1 className="calc">Calculo de proteína diária para hipertrofia</h1>
             <br/>
             <form onSubmit={Calc}>
                 <label name="peso">Peso</label>
@@ -24,7 +24,7 @@ export default function Prot(){
                 name="peso"type="number"/>
                 <button type="submit">Calcular</button>
             </form>
-            <h3>{`Resultado: ${resultado} `}</h3>
+            <h3 className="calc">{`Resultado: ${resultado} `}</h3>
         </div>
     )
 }
