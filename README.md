@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1>Projeto treinos<h1>
+<h3>Link da página</h3>
+<a>https://aluno-treinos.netlify.app/</a>
+<hr>
+<h3>Objetivo</h3>
+<p>Projeto totalmente voltado para pessoas que querem melhorar sua saúde<p>
+<p>usando métodos de mensuração de evolução (caso da calculadora de IMC)<p>
+<p>e também métodos usados para facilitar os treinos (como cronômetro e<p>
+<p>contador de treinos por grupamento múscular, a seguir teremos a </p>
+<p>apresentação visual do projeto</p>
+<hr>
+<h3>Página inicial</p>
+<p>Contendo breve apresentação e link para calculadoras além de header</p>
+<p>que leva direto para área de treinos</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![IMG_1368](https://user-images.githubusercontent.com/90721193/153782040-6040b3f5-8cd5-4936-97c3-328071d16ba8.PNG)
 
-## Available Scripts
 
-In the project directory, you can run:
+![IMG_1369](https://user-images.githubusercontent.com/90721193/153782108-35405177-74b6-4de9-a135-4615fdf36d3a.PNG)
 
-### `npm start`
+<h3>Calculadora de IMC</h3>
+<p>Possui header para navegação das páginas e calculadora de IMC</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![IMG_1370](https://user-images.githubusercontent.com/90721193/153782184-ca864b22-1d09-4e4e-979e-6a0896bcb366.PNG)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3>Calculadora de proteínas diárias</h3>
+<p>Possui header para navegação das páginas e calculadora de proteínas</p>
 
-### `npm test`
+![IMG_1371](https://user-images.githubusercontent.com/90721193/153782241-9bcbd400-6adb-4d33-9524-0ee73c38d122.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3>Página de treinos</h3>
+<p>Possui header para navegação e também cronômetro</p>
+<p>além disso temos um contador de treinos para grupamento muscular</p>
 
-### `npm run build`
+![IMG_1372](https://user-images.githubusercontent.com/90721193/153782309-e7f048b3-1fe6-4d4a-98df-419fb2a4e46d.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![IMG_1373](https://user-images.githubusercontent.com/90721193/153782321-be841e89-a203-4dfa-9716-21d06f656088.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<hr>
+<h3>Tecnologias utilizadas</h3>
+<h4>React.js</h4>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<hr>
+<h3>Autor</h3>
+<h4>Leonardo Paixão</h4>
